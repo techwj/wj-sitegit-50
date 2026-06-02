@@ -1,0 +1,59 @@
+{
+  "siteId": "northeast-china-hearty-dishes",
+  "generatedAt": "2026-06-02T15:38:15.452271",
+  "categories": [
+    "beginner-northeast-china-hearty-dishes",
+    "advanced-northeast-china-hearty-dishes",
+    "tips-northeast-china-hearty-dishes",
+    "history-northeast-china-hearty-dishes",
+    "trending-northeast-china-hearty-dishes",
+    "tutorials-northeast-china-hearty-dishes"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-northeast-china-hearty-dishes",
+      "category_name": "Beginner Northeast China Hearty Dishes"
+    },
+    {
+      "category_slug": "advanced-northeast-china-hearty-dishes",
+      "category_name": "Advanced Northeast China Hearty Dishes"
+    },
+    {
+      "category_slug": "tips-northeast-china-hearty-dishes",
+      "category_name": "Northeast China Hearty Dishes Tips"
+    },
+    {
+      "category_slug": "history-northeast-china-hearty-dishes",
+      "category_name": "Northeast China Hearty Dishes History"
+    },
+    {
+      "category_slug": "trending-northeast-china-hearty-dishes",
+      "category_name": "Trending Northeast China Hearty Dishes"
+    },
+    {
+      "category_slug": "tutorials-northeast-china-hearty-dishes",
+      "category_name": "Northeast China Hearty Dishes Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "northeast-china-hearty-dishes",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Northeast China Hearty Dishes Central",
+    "articles_per_row": 3
+  }
+}
